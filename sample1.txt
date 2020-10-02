@@ -1,1 +1,2 @@
 welcome to fast forward merge
+This is being added in b1's file 
